@@ -1,8 +1,8 @@
 # Larissa Giaccon
 
 ## Olá pessoal 👋
-Sou apaixonado por resolver problemas utilizando a programação.
-Sou um Front-End Developer :computer:
+Sou apaixonada por resolver problemas utilizando a programação.
+Sou uma Front-End Developer :computer:
 
   <br/> :books:  &nbsp; Graduanda em Engenharia da Computação pela UTFPR-CP
   <br/>:scroll:  &nbsp; Minha proposta de TCC é desenvolver uma plataforma web para ensino online de **Libras**
