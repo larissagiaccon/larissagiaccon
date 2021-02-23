@@ -13,6 +13,6 @@ Sou uma Front-End Developer :computer:
   <br/> 💬  &nbsp; Sobre mim: Curto tecnologias, games, CS:GO e assistir seriados e filmes
   <br/> :email: &nbsp; Entre em contato comigo: [![Linkedin Badge](https://img.shields.io/badge/-LarissaGiaccon-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tgmarinho/)](https://www.linkedin.com/in/larissagiaccon) 
 | 
-[![Hotmail Badge](https://img.shields.io/badge/-larissa_souz@hotmail.com-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:larissa_souz@hotmail.com)]
+![Hotmail Badge](https://img.shields.io/badge/-larissa_souz@hotmail.com-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:larissa_souz@hotmail.com)
 
 
