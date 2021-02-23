@@ -1,5 +1,3 @@
-<img width="auto" src="https://github.com/larissagiaccon/larissagiaccon/blob/master/banner.png">
-
 # Larissa Giaccon
 
 ## Olá pessoal 👋
