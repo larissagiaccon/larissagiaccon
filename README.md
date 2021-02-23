@@ -4,7 +4,9 @@
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Front-End Developer :computer:
 
-  :office:  &nbsp; Atualmente estou a procura de uma oportunidade de Desenvolvedora Web ReactJS
+  <br/> :books:  &nbsp; Graduanda em Engenharia da Computação
+  <br/>:scroll:  &nbsp; Minha proposta de TCC é desenvolver uma plataforma web para ensino online de Libras
+  <br/>:office:  &nbsp; Atualmente estou a procura de uma oportunidade de Desenvolvedora Web ReactJS
   <br/>:rocket:  &nbsp; Realizando o Bootcamp GoStack da **Rocketseat**
   <br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando ReactJS
   <br/>:blush: &nbsp; Posso te ajudar em como tirar o seu primeiro projeto do papel!
