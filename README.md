@@ -14,7 +14,7 @@ Sou um Front-End Developer :computer:
 | 
 [![Hotmail Badge](https://img.shields.io/badge/-larissa_souz@hotmail.com-c14438?style=flat-square&logo=hotmail&logoColor=white&link=mailto:larissa_souz@hotmail.com)](mailto:larissa_souz@hotmail.com)
 | 
-[![Hotmail Badge](https://img.shields.io/badge/-Hotmail-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:larissa_souz@hotmail.com)]
+[![Hotmail Badge](https://img.shields.io/badge/-larissa_souz@hotmail.com-0078D4?style=flat-square&amp;logo=microsoft-outlook&amp;logoColor=white&amp;link=mailto:larissa_souz@hotmail.com)]
 (mailto:larissa_souz@hotmail.com)
 
 
