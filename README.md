@@ -1,22 +1,4 @@
-### Hi there 👋
-
-<!--
-**larissagiaccon/larissagiaccon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-<img width="auto" src="https://github.com/tgmarinho/tgmarinho/blob/master/banner.png">
+<img width="auto" src="https://github.com/tgmarinho/larissagiaccon/blob/master/banner.png">
 
 # Larissa Giaccon
 
@@ -24,8 +6,8 @@ Here are some ideas to get you started:
 Sou apaixonado por resolver problemas utilizando a programação.
 Sou um Front-End Developer :computer:
 
-  :rocket:  &nbsp; Atualmente não estou trabalhando
-  <br/>:books:  &nbsp; Estou fazendo o Bootcamp GoStack da **Rocketseat**
+  :office:  &nbsp; Atualmente não estou trabalhando
+  <br/>:rocket:  &nbsp; Estou fazendo o Bootcamp GoStack da **Rocketseat**
   <br/>:purple_heart: &nbsp; Buscando colaborar com projetos em Front-end usando React
   <br/>:blush: &nbsp; Posso te ajudar em como tirar o seu primeiro projeto do papel!
   <br/>:computer: &nbsp; Minha stack: ReactJS, Node.js, React Native & Typescript
