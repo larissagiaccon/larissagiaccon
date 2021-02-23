@@ -1,4 +1,4 @@
-<img width="auto" src="https://github.com/tgmarinho/larissagiaccon/blob/master/banner.png">
+<img width="auto" src="https://github.com/larissagiaccon/larissagiaccon/blob/master/banner.png">
 
 # Larissa Giaccon
 
