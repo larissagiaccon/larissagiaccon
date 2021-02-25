@@ -3,7 +3,6 @@
 ## Olá pessoal 👋
 
 Sou apaixonada por resolver problemas utilizando a programação.
-<br/>Sou uma Front-End Developer :computer:
 
   <br/>:books:  &nbsp; Graduanda em Engenharia da Computação pela UTFPR-CP
   <br/>:scroll:  &nbsp; Minha proposta de TCC é desenvolver uma plataforma web para ensino online de **Libras**
